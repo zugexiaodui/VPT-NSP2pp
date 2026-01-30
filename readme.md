@@ -69,9 +69,13 @@ Change the `--seed` argument to use different seeds (e.g., 2026, 2027).
 ## Citation
 ```
 (The BibTeX entry will be updated after publication)
-@article{zhangvpt,
-  title={VPT-NSP2++: Importance-Aware Visual Prompt Tuning in Null Space for Continual Learning},
+@ARTICLE{11296947,
   author={Zhang, Shizhou and Lu, Yue and Cheng, De and Xing, Yinghui and Wang, Nannan and Wang, Peng and Zhang, Yanning},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}
-}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={VPT-NSP2++: Importance-Aware Visual Prompt Tuning in Null Space for Continual Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TPAMI.2025.3642298}}
 ```
